@@ -50,3 +50,10 @@ Forward (30s)  --->  2. Reverse (60s)  --->  3. Alternate Turns (60s)
 🔗 Tinkercad Simulation Link
 View and run the interactive simulation directly on Tinkercad:
 https://www.tinkercad.com/things/2EdWUzzNb1T/editel?sharecode=W57LN9DGBVFdyYZA5iR5JhKfdIRvvoRIqCj3FwiKfHA 
+
+---
+
+## 📹 Simulation Video Demonstration
+
+Watch the full simulation execution and motion sequence in action:
+https://drive.google.com/file/d/1s63bQ5bV9YMxTmocURF8_NZky2FTvPn8/view?usp=drive_link
