@@ -44,9 +44,7 @@ This repository contains the circuit configuration, C++ code, and documentation 
 
 ## ⚙️ Motion Routine Logic
 Forward (30s)  --->  2. Reverse (60s)  --->  3. Alternate Turns (60s)
-│
-┌─────────────────────┴─────────────────────┐
-│ 5s Right Turn  --->  5s Left Turn (x6)   │ 
+5s Right Turn  --->  5s Left Turn (x6)    
 
 ---
 🔗 Tinkercad Simulation Link
